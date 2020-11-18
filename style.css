@@ -1,0 +1,49 @@
+body {background-image:url('paper.png');}
+
+
+h1 { 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #333366;
+	text-shadow: 2px 2px #ff0000;
+	width: 100%;
+	height: auto;
+   }
+   
+  
+    p  {
+    color: #333366;
+    font-size: 300%; 
+	font-family: Arial;
+    font-size: 130%;
+}
+
+table {
+    border: 5px solid powderblue;
+	width: 100%;
+	height: auto;
+}
+
+
+
+video
+{
+width: 50%;
+  height: auto;
+  max-height: 50%;
+  }
+  
+  img
+  {
+	 width: 30%;
+  height: auto;
+  max-height: 30%;
+   }
+	  
+  
+
+  
+
+
+	
+
+   
